@@ -1,0 +1,18 @@
+/build/
+
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Compiled files
+bin/
+target/
+
+# Logs and databases
+*.log
+*.sqlite
+
+# User-specific files
+.DS_Store
